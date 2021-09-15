@@ -1,4 +1,4 @@
-# Hello There 👋
+# 👋 Hello There
 
 ![Obi-Wan GIF](assets/hello-there.gif)
 
@@ -72,7 +72,7 @@ If you wanna know more about me and what I do check out my [LinkedIn](https://ww
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thfona&layout=compact&langs_count=16&theme=synthwave"/>
 
