@@ -83,13 +83,6 @@ Also me: [Work account](https://github.com/thiago-nascimento-olx).
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thfona&layout=compact&langs_count=16&theme=synthwave"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thfona&show_icons=true&theme=radical"/>
-
-
 ## 📫 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagofn.contato@gmail.com)
